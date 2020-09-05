@@ -7,3 +7,4 @@ After rolling a challenge that is a start of a sequence, if i get an advanced ch
 Roll order
 
 - 74
+- 1
